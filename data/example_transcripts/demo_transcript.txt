@@ -1,0 +1,11 @@
+[00:00] Alice: I’ve mostly worked in Python and have built data pipelines. I like systems that scale and I’m comfortable with cloud tooling.
+[00:20] Alice: What excites me is turning messy data into something reliable and useful for teams.
+
+[01:00] Ben: I’ve done product work and a lot of user research. I enjoy figuring out what people actually need and translating that into specs.
+[01:20] Ben: I’m comfortable coordinating across stakeholders and keeping projects moving.
+
+[02:10] Cara: I like design and storytelling. I’ve built campaigns and I enjoy making complex things feel intuitive.
+[02:30] Cara: I’m also curious about experiments and learning quickly.
+
+[03:10] Dan: I’ve shipped ML models before and enjoy deep technical dives. I’m happiest when debugging hard problems.
+[03:30] Dan: I also care about mentoring and building healthy team norms.
