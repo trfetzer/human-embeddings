@@ -1,6 +1,5 @@
 # Human embeddings — team design from interview transcripts
-
-This repo packages the **“human embeddings”** experiment described in the blog post **_Human embeddings_** (Thiemo Fetzer, **5 Jan 2026**) and provides a reproducible notebook + a minimal CLI pipeline for:
+A local-first, protocol-driven way to turn structured interviews into interpretable latent ‘skill directions’ and then do transparent small-N combinatorial team design. This repo packages the **“human embeddings”** experiment described in the blog post and provides a reproducible notebook + a minimal CLI pipeline for:
 
 1. **Chunking** diarized interview transcripts into ~250–500 token snippets  
 2. **Annotating** each snippet into skill/trait dimensions (e.g. *technical depth*, *creativity*, *project management*, *marketing*)  
